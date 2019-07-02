@@ -1,2 +1,2 @@
 # nag-new-repo
-repo
+repo nag
